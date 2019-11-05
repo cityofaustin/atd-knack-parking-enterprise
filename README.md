@@ -13,4 +13,4 @@ This application allows parking enterprise staff to track citation reporting and
   
 _**[Read the docs - TBD]_
 
-![to be added](media/)
+![Home Page](media/20191105_home_page_screen_shot.png)
